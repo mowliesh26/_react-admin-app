@@ -1,0 +1,103 @@
+/* menu sidebar */
+ 
+.mainlayout{
+    background-color: #2b2b2b;
+    
+}
+.layout {
+    background-color: #ffdede !important;
+    height: 100vh;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 10px;
+     
+}
+
+ 
+.ant-layout-sider {
+    width: 500px !important;
+  
+}
+
+.anadearmas {
+    width: 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.imagename {
+    margin-top: 4px;
+    font-size: medium
+}
+
+.Menubutton {
+    font-size: 16px;
+    width: 20px;
+    height: 64px;
+
+}
+
+.Menubutton1 {
+ padding-right: 18px;
+}
+
+.Menuitems {
+
+
+    background-color: black;
+    border-radius: 10px;
+    margin: 10% 10px 0px 10px
+}
+
+:where(.css-dev-only-do-not-override-ccdg5a).ant-menu-light .ant-menu-item-selected,
+:where(.css-dev-only-do-not-override-ccdg5a).ant-menu-light>.ant-menu .ant-menu-item-selected {
+    background-color: grey !important;
+
+}
+
+:where(.css-dev-only-do-not-override-ccdg5a).ant-menu-light .ant-menu-item,
+:where(.css-dev-only-do-not-override-ccdg5a).ant-menu-light>.ant-menu .ant-menu-item,
+:where(.css-dev-only-do-not-override-ccdg5a).ant-menu-light .ant-menu-submenu-title,
+:where(.css-dev-only-do-not-override-ccdg5a).ant-menu-light>.ant-menu .ant-menu-submenu-title {
+    color: #ffff;
+    background-color: #120101;
+}
+
+.logoutbuttonrow {
+    height: 70vh;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+
+.logout {
+    color: white;
+    background-color: black;
+    width: 10vw;
+}
+
+.content {
+    background-color: black;
+    height: 90vh;
+    overflow-y: scroll;
+}
+
+.header_title {
+    padding-left: 23px;
+    font-size: 26px !important; 
+    color: white !important;
+   
+}
+:where(.css-dev-only-do-not-override-ccdg5a).ant-menu-light .ant-menu-item-selected, :where(.css-dev-only-do-not-override-ccdg5a).ant-menu-light>.ant-menu .ant-menu-item-selected {
+    background-color:#2b2b2b !important;
+}
+
+.ant-menu-light .ant-menu-item:hover {
+    color: white !important;
+}
+:where(.css-dev-only-do-not-override-ccdg5a).ant-menu-light .ant-menu-item{
+    color: white !important;
+} 
+ .anticon anticon-menu-unfold{
+    margin-right: 10px !important;
+ }

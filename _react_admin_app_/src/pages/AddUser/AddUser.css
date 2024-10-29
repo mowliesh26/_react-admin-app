@@ -1,0 +1,137 @@
+
+.LabelColor{
+    color: white;
+    font-size:medium;
+    border-color: black !important;
+}
+.ant-input-outlined:focus-within{
+    background: #2B2B2B!important;
+}
+.Inputlabel{
+    width:26vw ;
+    border: rgb(24, 23, 23);
+}
+.inputBox{
+    background-color: #2B2B2B;
+    border: gray;
+    color: white;
+}
+.inputBox:hover{
+    background-color: #2B2B2B;
+}
+.inputBox:active{
+    background-color: #2B2B2B!important;
+}
+.Rolelabel{
+    width:25vw ;
+}
+ .AlignmentCenter{
+    display: flex;
+    justify-content: center;
+     
+} 
+.labelColor{
+    color: white;
+    font-size:medium;
+}
+.uploadbutton{
+    padding-top: 27px;
+}
+.imageInputBox{
+    width:25vw ;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.country{
+    width:250px
+}
+.button{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 225px;
+}
+.addusersubmit{
+    background-color: black !important;
+    color: white;
+    border-color:#2B2B2B ;
+}
+ 
+ .Inputlabel .ant-select-selector {
+   background-color: #2B2B2B!important; 
+ 
+}
+.add_user_form :where(.css-dev-only-do-not-override-ccdg5a).ant-select-outlined:not(.ant-select-customize-input) .ant-select-selector {
+    border: black;
+}
+
+.add_user_form .ant-select-selector{
+    background-color: #2B2B2B!important; 
+    
+}
+.add_user_form :where(.css-dev-only-do-not-override-ccdg5a).ant-radio-wrapper .ant-radio-inner {
+background-color: #2B2B2B!important;  ;
+}
+.add_user_form :where(.css-dev-only-do-not-override-ccdg5a).ant-select .ant-select-selection-placeholder {
+ color: white;
+}
+ 
+.add_user_form :where(.css-dev-only-do-not-override-ccdg5a).ant-select-single.ant-select-show-arrow .ant-select-selection-item{
+    color:white;
+}
+
+.add_user_form :where(.css-dev-only-do-not-override-ccdg5a).ant-col-6 {
+    max-width: 15% !important;
+
+}
+.add_user_form :where(.css-dev-only-do-not-override-ccdg5a).ant-form-item .ant-form-item-control-input-content{
+    display: flex;
+    align-items: baseline;
+    gap: 30px;
+}
+
+.add_user_form :where(.css-dev-only-do-not-override-ccdg5a).ant-btn-variant-solid:disabled, :where(.css-dev-only-do-not-override-ccdg5a).ant-btn-variant-solid.ant-btn-disabled {
+    margin-top: 0px !important;
+}
+
+.add_user_form :where(.css-dev-only-do-not-override-ccdg5a).ant-upload-wrapper .ant-upload-list .ant-upload-list-item .ant-upload-list-item-name{
+    color: white;
+}
+.add_user_form :where(.css-dev-only-do-not-override-ccdg5a).ant-input-lg {
+
+}
+ 
+.margin{
+    margin-left:30px;
+}
+.file_margin{
+    margin-top:35%;
+    border-radius: 10px;
+    color: white;
+}
+.file_margin:hover{
+    background-color: #2B2B2B;
+}
+.Baseimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputimage{
+    background-color: #2B2B2B;
+    border-radius: 10px;
+    border-color:  #2B2B2B
+}
+.inputimage:hover{
+    background-color: #2B2B2B;
+}
+
+.textAreaSpace{
+    margin-top: 15px;
+    padding-left: 32px;
+    padding-right: 110px;
+
+}
+.ant-btn-variant-outlined:disabled{
+         color: white !important;
+}
